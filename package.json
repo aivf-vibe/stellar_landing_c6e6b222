@@ -1,0 +1,13 @@
+{
+  "name": "nidum-ai-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Nidum AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 51431",
+    "dev": "python3 -m http.server 51431"
+  },
+  "keywords": ["ai", "landing-page", "nidum"],
+  "author": "Nidum AI",
+  "license": "MIT"
+}
